@@ -1,0 +1,8 @@
+telegram:
+  bot:
+    token: ${TELEGRAM_BOT_TOKEN}
+
+watson:
+  assistant:
+    key: ${WATSON_ASSISTANT_KEY}
+    id: ${WATSON_ASSISTANT_ID}

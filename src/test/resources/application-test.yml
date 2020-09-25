@@ -1,0 +1,8 @@
+telegram:
+  bot:
+    token: dummyToken
+
+watson:
+  assistant:
+    id: dummyId
+    key: dummyKey
